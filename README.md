@@ -11,6 +11,7 @@ PROJECT OVERVIEW
 The primary objective of this project is to analyze the unemployment rate during the Covid-19 pandemic. The project will involve collecting relevant data, cleaning and preprocessing the data, conducting exploratory data analysis (EDA)
 
 REQURIMENTS
+
 To run the notebooks and reproduce the analysis, ensure you have the following dependencies installed:
 • Python (version 3.6 or higher)
 • Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn)
